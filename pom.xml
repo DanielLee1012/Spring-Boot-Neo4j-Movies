@@ -52,7 +52,7 @@
 		<dependency>
 			<groupId>com.hankcs</groupId>
 			<artifactId>hanlp</artifactId>
-			<version>portable-1.7.4</version>
+			<version>portable-1.7.7</version>
 		</dependency>
 		<!-- 添加thymeleaf 支持页面跳转 -->
 		<dependency>
